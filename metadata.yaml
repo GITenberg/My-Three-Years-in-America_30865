@@ -1,0 +1,29 @@
+_repo: My-Three-Years-in-America_30865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernstorff, Johann Heinrich, Graf von
+    alias: Bernstorff, Johann Heinrich Andreas Hermann Albrecht, Graf von
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '34866'
+    url: http://www.gutenberg.org/2009/agents/34866
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- Germany'
+- !lcsh 'Germany -- Foreign relations -- United States'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: My Three Years in America
+url: http://www.gutenberg.org/ebooks/30865
